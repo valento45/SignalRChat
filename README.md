@@ -5,7 +5,7 @@ Sistema desenvolvido por Igor Carvalho.
 
 # Introdução
 
-Este WebApp tem como objetivo um chat em grupo através de uma conexão Hub efetuando comunicação WebSocket bidirecional. 
+Este WebApp tem como objetivo um chat em grupo através de uma conexão Hub efetuando comunicação WebSocket bidirecional com Signal R. 
 
 # Configurações necessárias para execução do projeto
 
