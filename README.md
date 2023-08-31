@@ -17,3 +17,5 @@ Este WebApp tem como objetivo um chat em grupo através de uma conexão Hub efet
 
 4º Aproveite a aplicação ! Se no futuro algum aluno ou colega puder absorver algo, estarei mais do que satisfeito ! <3 
 
+![image](https://github.com/valento45/SignalRChat/assets/54119744/61948a34-73a8-4c51-a192-b2044164bc2d)
+
