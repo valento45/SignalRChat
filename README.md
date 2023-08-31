@@ -13,7 +13,7 @@ Este WebApp tem como objetivo um chat em grupo através de uma conexão Hub efet
 
 2º Abrir o projeto, e compilar
 
-3º Executar o projeto, e pronto. só ser felizxxxxx, abra em outro navegador simultaneamente e aproveite o chat.  =D
+3º Executar o projeto, e pronto. só ser felizxxxxx, abra em outro navegador simultaneamente e curta o chat.  =D
 
 4º Aproveite a aplicação ! Se no futuro algum aluno ou colega puder absorver algo, estarei mais do que satisfeito ! <3 
 
